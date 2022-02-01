@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <h1 align="center"> 
     Hello World 👋🌍; </br>My name is Michael Akinsanya,<br/>&lt;&nbsp;Frontend Developer 👨🏽‍💻 &nbsp;/&gt;
-    <small color="lightBlue">  I am interested in, write about, and develop (open source) software solutions
-using JavaScript, ReactJS and PHP.</small>
+    <small color="lightBlue">  I am interested in, write about, and developing (open source) software solutions
+using JavaScript and ReactJS.</small>
 </h1>
 <p align="left"> <a href="https://twitter.com/tripleoniks" target="blank"><img src="https://img.shields.io/twitter/follow/tripleoniks?logo=twitter&style=for-the-badge" alt="bomoakin" /></a> </p>
 
