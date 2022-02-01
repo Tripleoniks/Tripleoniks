@@ -32,8 +32,8 @@ using JavaScript, ReactJS and PHP.</small>
 ## 📬 Get in touch
 <!-- 
 - Web: [natterstefan.me][1] -->
-- LinkedIn: [Michael Akinsanya] (https://www.linkedin.com/in/michael-akinsanya-34a635196/)
-- Twitter: [twitter.com/tripleoniks]
+- LinkedIn: linkedin.com/in/michael-akinsanya-34a635196/
+- Twitter: twitter.com/tripleoniks
 - <a href="https://wa.me/2347052488999">
   <img align="left" alt="My contact" width="21px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />
 </a>
