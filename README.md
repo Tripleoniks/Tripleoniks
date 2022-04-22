@@ -35,7 +35,7 @@ using JavaScript and ReactJS.</small>
 - LinkedIn: [LinkedIn Profile](https://linkedin.com/in/michael-akinsanya-34a635196/)
 - Twitter: [Twitter Profile](https://twitter.com/tripleoniks)
 - <a href="https://wa.me/2347052488999">
-  <img align="left" alt="My contact" width="21px" src="https://img.shields.io/badge/-Whatsapp-green" />
+  <img  src="https://img.shields.io/badge/-Whatsapp-green" />
 </a>
 
 
