@@ -34,9 +34,10 @@ using JavaScript and ReactJS.</small>
 - Web: [natterstefan.me][1] -->
 - LinkedIn: [LinkedIn Profile](https://linkedin.com/in/michael-akinsanya-34a635196/)
 - Twitter: [Twitter Profile](https://twitter.com/tripleoniks)
-- <a href="https://wa.me/2347052488999">
+- <p align="left"> <a href="https://wa.me/2347052488999" target="blank"><img src="https://img.shields.io/badge/-Whatsapp-%2325d366" alt="bomoakin" /></a> </p>
+<!-- - <a href="https://wa.me/2347052488999">
   <img  src="https://img.shields.io/badge/-Whatsapp-%2325d366" />
-</a>
+</a> -->
 
 
 
