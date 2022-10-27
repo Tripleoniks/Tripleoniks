@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-
 <h1 align="center"> 
     Hello World 👋🌍; </br>My name is Michael Akinsanya,<br/>&lt;&nbsp;Frontend Developer 👨🏽‍💻 &nbsp;/&gt;
     <small color="lightBlue">  I am interested in, writing about, and developing (open source) software solutions
